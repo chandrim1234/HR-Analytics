@@ -10,9 +10,9 @@ This Power BI dashboard visualizes employee attrition data, offering key insight
 - Power BI Desktop
 - CSV data file (HR_Analytics.csv)
 # Usage
-1.Load the provided CSV data file into Power BI.
-2.Explore the interactive dashboard to gain insights into employee attrition.
-3.Customize and filter the visualizations as needed to suit your analysis.
+- Load the provided CSV data file into Power BI.
+- Explore the interactive dashboard to gain insights into employee attrition.
+- Customize and filter the visualizations as needed to suit your analysis.
 
 # Data Description
 The dataset includes the following fields:
